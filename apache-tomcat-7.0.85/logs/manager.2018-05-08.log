@@ -1,0 +1,184 @@
+May 08, 2018 9:42:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+May 08, 2018 9:42:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Global resources are available
+May 08, 2018 9:42:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 9:43:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 9:45:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 9:45:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/ran'
+May 08, 2018 9:45:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 9:46:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/ran'
+May 08, 2018 9:46:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 9:53:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/ran'
+May 08, 2018 9:53:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 9:56:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+May 08, 2018 9:56:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+May 08, 2018 9:56:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 9:56:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 9:56:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 9:56:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 9:56:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 9:56:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/room'
+May 08, 2018 9:56:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 9:56:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 9:56:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/ran'
+May 08, 2018 9:56:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:03:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:03:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:03:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:03:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:04:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:04:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 10:04:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:04:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:04:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:04:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:04:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 10:04:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:05:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:05:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:05:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:05:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:05:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:05:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:06:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:06:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:07:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:07:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 10:07:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:07:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:07:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:07:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:07:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 10:07:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:07:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:31:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:31:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:31:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:31:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 10:31:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:31:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:31:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:31:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:31:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 10:31:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:52:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:52:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:52:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:53:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:53:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:53:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:53:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 10:53:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:53:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:53:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:53:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:53:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 10:53:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:53:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:53:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:54:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:54:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:54:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:54:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:54:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:57:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:58:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:58:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 10:58:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:58:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:58:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 08, 2018 10:58:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/room'
+May 08, 2018 10:58:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/room'
+May 08, 2018 10:58:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:58:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'

@@ -1,0 +1,58 @@
+Mar 08, 2018 9:55:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Mar 08, 2018 9:55:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Global resources are available
+Mar 08, 2018 9:55:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 10:05:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/manohar'
+Mar 08, 2018 10:05:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 10:09:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/manohar'
+Mar 08, 2018 10:09:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 10:09:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/manohar'
+Mar 08, 2018 10:09:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 10:09:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/manohar'
+Mar 08, 2018 10:09:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 10:09:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/manohar'
+Mar 08, 2018 10:09:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 10:11:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Mar 08, 2018 10:11:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Mar 08, 2018 10:11:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 10:11:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/ran'
+Mar 08, 2018 10:11:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/ran.war
+Mar 08, 2018 10:13:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 10:21:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/ran'
+Mar 08, 2018 10:21:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 10:23:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/ran'
+Mar 08, 2018 10:23:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 10:23:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/ran'
+Mar 08, 2018 10:23:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 12:30:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 08, 2018 12:30:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: deploy: Deploying web application '/ran'
+Mar 08, 2018 12:30:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: Uploading WAR file to /root/apache-tomcat-7.0.85/webapps/ran.war
+Mar 08, 2018 12:31:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'

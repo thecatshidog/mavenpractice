@@ -1,0 +1,178 @@
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.85
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Feb 7 2018 18:52:33 UTC
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.85.0
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            4.9.85-37.55.amzn1.x86_64
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /opt/jdk1.8.0_161/jre
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_161-b12
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /root/apache-tomcat-7.0.85
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /root/apache-tomcat-7.0.85
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/root/apache-tomcat-7.0.85/conf/logging.properties
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/root/apache-tomcat-7.0.85
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/root/apache-tomcat-7.0.85
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/root/apache-tomcat-7.0.85/temp
+May 08, 2018 9:36:12 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+May 08, 2018 9:36:12 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+May 08, 2018 9:36:12 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1212 ms
+May 08, 2018 9:36:12 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+May 08, 2018 9:36:12 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.85
+May 08, 2018 9:36:12 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/ran.war
+May 08, 2018 9:36:13 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+May 08, 2018 9:36:13 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/ran.war has finished in 529 ms
+May 08, 2018 9:36:13 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/apache-tomcat-7.0.85/webapps/examples
+May 08, 2018 9:36:13 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/apache-tomcat-7.0.85/webapps/examples has finished in 556 ms
+May 08, 2018 9:36:13 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/apache-tomcat-7.0.85/webapps/docs
+May 08, 2018 9:36:14 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/apache-tomcat-7.0.85/webapps/docs has finished in 76 ms
+May 08, 2018 9:36:14 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/apache-tomcat-7.0.85/webapps/host-manager
+May 08, 2018 9:36:14 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/apache-tomcat-7.0.85/webapps/host-manager has finished in 263 ms
+May 08, 2018 9:36:14 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/apache-tomcat-7.0.85/webapps/ROOT
+May 08, 2018 9:36:14 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/apache-tomcat-7.0.85/webapps/ROOT has finished in 71 ms
+May 08, 2018 9:36:14 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /root/apache-tomcat-7.0.85/webapps/manager
+May 08, 2018 9:36:14 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /root/apache-tomcat-7.0.85/webapps/manager has finished in 107 ms
+May 08, 2018 9:36:14 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+May 08, 2018 9:36:14 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+May 08, 2018 9:36:14 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1775 ms
+May 08, 2018 9:45:51 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/ran]
+May 08, 2018 9:56:18 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 9:56:18 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+May 08, 2018 9:56:18 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 107 ms
+May 08, 2018 9:56:19 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/room]
+May 08, 2018 9:56:19 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 9:56:19 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 77 ms
+May 08, 2018 10:03:32 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/room]
+May 08, 2018 10:04:32 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:04:32 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+May 08, 2018 10:04:32 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 72 ms
+May 08, 2018 10:04:33 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/room]
+May 08, 2018 10:04:33 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:04:33 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 60 ms
+May 08, 2018 10:05:17 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/room]
+May 08, 2018 10:07:42 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:07:42 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+May 08, 2018 10:07:42 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 72 ms
+May 08, 2018 10:07:42 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/room]
+May 08, 2018 10:07:42 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:07:42 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 55 ms
+May 08, 2018 10:31:58 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/room]
+May 08, 2018 10:31:58 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:31:58 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+May 08, 2018 10:31:58 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 79 ms
+May 08, 2018 10:31:59 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/room]
+May 08, 2018 10:31:59 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:31:59 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 53 ms
+May 08, 2018 10:52:54 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/room]
+May 08, 2018 10:53:42 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:53:42 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+May 08, 2018 10:53:42 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 68 ms
+May 08, 2018 10:53:43 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/room]
+May 08, 2018 10:53:43 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:53:43 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 61 ms
+May 08, 2018 10:53:53 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/room]
+May 08, 2018 10:58:36 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:58:36 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+May 08, 2018 10:58:36 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 62 ms
+May 08, 2018 10:58:37 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/room]
+May 08, 2018 10:58:37 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /root/apache-tomcat-7.0.85/webapps/room.war
+May 08, 2018 10:58:37 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /root/apache-tomcat-7.0.85/webapps/room.war has finished in 40 ms
+May 08, 2018 1:57:24 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+May 08, 2018 1:57:24 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+May 08, 2018 1:57:24 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+May 08, 2018 1:57:24 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+May 08, 2018 1:57:24 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+May 08, 2018 1:57:24 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+May 08, 2018 1:57:24 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
